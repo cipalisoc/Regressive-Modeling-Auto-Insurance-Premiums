@@ -1,5 +1,3 @@
-## Project 2
-
 # Customer Lifetime Value: An Exploration of Auto Insurance Policyholders
 Christian Palisoc
 
